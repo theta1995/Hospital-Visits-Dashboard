@@ -13,6 +13,10 @@ Create a dynamic PowerBI dashboard using the hospital visits dataset.
 
 ### Dashboard Preview
 
+## Initial Display
 ![img1](https://github.com/theta1995/Hospital-Visits-Dashboard/assets/73801104/a90a88c8-43c3-4a58-a768-dfce8139d8c9)
 
+## Display only patients visits in the morning.
 ![img2](https://github.com/theta1995/Hospital-Visits-Dashboard/assets/73801104/6db1d595-bfc8-4d0a-a2fe-7328bf886c67)
+
+## Users can filter views based on what they select (races, ages, genders, practices, etc..)
